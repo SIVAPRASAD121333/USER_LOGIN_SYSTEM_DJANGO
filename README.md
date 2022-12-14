@@ -14,5 +14,5 @@ Step3:
 Signup and signin 
 
 Step4:
-RUN THE BELOW i.e. ADD :"admin"  and login with username and password ( using "username" and "password" that are created after Creating Super user) and run below
+RUN THE BELOW i.e. ADD :"admin"  and login with username and password ( using "username" and "password" that are created after Creating Superuser in Step1) and run below
 http://127.0.0.1:8000/admin
