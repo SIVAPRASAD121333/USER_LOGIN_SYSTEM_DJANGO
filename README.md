@@ -40,5 +40,5 @@ Step3: Run on Tab: http://127.0.0.1:8000/ (Signup, Signin and Signout)
 
 Step4: RUN THE BELOW i.e., ADD: "admin" and login with username and password (using "username" and "password" that are created after 
        Creating Superuser in Step1), run below http://127.0.0.1:8000/admin and after login with credentials of superuser,
-       Check the all the users list.
+       Check all users list.
 
