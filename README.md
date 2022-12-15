@@ -27,49 +27,8 @@ Commands:
 - Create a Django App: ‘python manage.py startapp app_name’
 - Create a Superuser (admin): ‘python manage.py createsuperuser’ 
 
-Create a Dashboard View:
 
-Strcucture of the Project:
-
-USER_LOGIN_SYSTEM_DJANGO-main/
-│
-├──> authentication/
-|   ├──> _pycache_
-|   |──> migrations
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── tokens.py
-│   ├── urls.py
-│   └── views.py
-│
-├──> templates/
-│   │
-│   ├──> authentication/  
-│   |     ├── index.html
-|   |     ├── signin.html
-│   │     └──signup.html
-│   ├──¬¬¬¬¬ activation_failed.html
-│   └── email_confirmation.html
-
-├──> user_login/   
-|   ├──> _pycache_
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── info.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   ├── urls.py
-│   └── views.py
-│
-├── db.sqlite3
-└── manage.py
-
-For Complete Code:
-https://github.com/SIVAPRASAD121333/USER_LOGIN_SYSTEM_DJANGO
+Check Output:
 
 Step1: Run the server in Terminal: "python manage.py runserver" 
 
